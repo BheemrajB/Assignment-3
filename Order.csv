@@ -1,0 +1,4 @@
+Order_id,Customer_Name,Product_name,Payment_id,Customer_id,Product_Id
+O1,John ,Laptop,PAY1,C1,P1
+O2,Smith,Smartphone,PAY2,C2,P2
+O3,Johnson,Headphones,PAY3,C3,P3

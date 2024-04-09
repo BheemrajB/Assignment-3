@@ -1,0 +1,4 @@
+Review_Id,Product_Id,Customer_id,Review_Description,Review_Star
+R1,P1,C1,Great laptop, very fast!,5
+R2,P2,C2,camera quality is good,4
+R3,P3,C3,Good sound quality,3

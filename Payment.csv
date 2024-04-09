@@ -1,0 +1,4 @@
+Payment_Id,Product_name,Quantity,Price,Total_Amount,Customer_id,Product_id
+PAY1,Laptop,1,1200,1200,C1,P1
+PAY2,Smartphone,1,800,800,C2,P2
+PAY3,Headphones,2,150,300,C3,P3
